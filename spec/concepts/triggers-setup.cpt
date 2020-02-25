@@ -1,0 +1,4 @@
+# Setup openshift-pipeline resources to create vote-app
+
+* Create oc-patch-deployment task 
+* Create pipeline
